@@ -29,7 +29,7 @@
 
 <div align="center">
 
-*building quietly, shipping steadily*
+*𝐹𝑖𝑛𝑑𝑖𝑛𝑔 𝑡ℎ𝑒 𝑟ℎ𝑦𝑡ℎ𝑚 𝑖𝑛 𝑎𝑙𝑔𝑜𝑟𝑖𝑡ℎ𝑚𝑠.*
 
 <br>
 
