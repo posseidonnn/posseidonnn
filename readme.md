@@ -6,7 +6,7 @@
 
 <br>
 
-`Python` · `Aiogram` · `Pyrogram` · `MongoDB` · `FFmpeg` · `Linux VPS`
+`Python` · `Wzgram` · `Pyrogram` · `MongoDB` · `FFmpeg` · `Linux VPS`
 
 </div>
 
